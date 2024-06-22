@@ -1,5 +1,10 @@
 # Cookful-website
 
+•	Developed a recipe search engine, enabling users to find recipes by inputting ingredients, with a focus on intuitive API, UI/UX design, and smooth data workflow.
+•	Architected backend with Node.js and frontend with React, ensuring efficient ingredient-based recipe search and filtering; managed data storage using PostgreSQL and AWS S3, and utilized Python with Pandas for data cleaning.
+•	Refined data integrity and user search experience with custom filters for cuisine, cooking time, and difficulty; streamlined deployment with Git and Heroku for consistent, scalable application performance.
+![image](https://github.com/ZSS57/Cookful-website/assets/101138757/8ebcfb9a-1335-4f8e-afc8-955d73461d8f)
+
 
 
 Demo:
